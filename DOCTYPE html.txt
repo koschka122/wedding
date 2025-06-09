@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="ky">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Бекмырза & Альбина</title>
+  <style>
+    body {
+      font-family: 'Georgia', serif;
+      background-color: #ffffff;
+      color: #333333;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+      padding: 40px 20px;
+      text-align: center;
+    }
+    h1 {
+      font-size: 2.5em;
+      margin-bottom: 10px;
+    }
+    .subtitle {
+      font-size: 1.2em;
+      margin-bottom: 30px;
+    }
+    .section {
+      margin-bottom: 30px;
+    }
+    .section h2 {
+      font-size: 1.4em;
+      margin-bottom: 10px;
+      color: #555;
+    }
+    a.button {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 10px 20px;
+      background-color: #000;
+      color: #fff;
+      text-decoration: none;
+      border-radius: 5px;
+    }
+    a.button:hover {
+      background-color: #444;
+    }
+    footer {
+      margin-top: 50px;
+      font-size: 0.9em;
+      color: #888;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>💍 Бекмырза & Альбина</h1>
+    <p class="subtitle">Сизди биздин тоюбузга чакырабыз!</p>
+    
+    <p>Биз үчүн өзгөчө күндү жакындарыбыздын курчоосунда өткөрүү эң маанилүү. Ошондуктан Сизди жана үй-бүлөңүздү биздин кубанычыбызга күбө болууга чакырабыз!</p>
+
+    <div class="section">
+      <h2>📅 Качан?</h2>
+      <p>24-август, 2025-жыл<br>⏰ 17:00</p>
+    </div>
+
+    <div class="section">
+      <h2>📍 Кайда?</h2>
+      <p>Бишкек шаары, Новопаловка айылы<br><strong>Ресторан Ayar Grand Hall</strong></p>
+    </div>
+
+    <div class="section">
+      <h2>📞 Байланыш</h2>
+      <p>0700 64 24 08</p>
+    </div>
+
+    <div class="section">
+      <h2>✅ Катышууну ырастоо</h2>
+      <p>Сураныч, 10-августка чейин биз менен байланышып катыша турганыңызды ырастап коюңуз.</p>
+      <a class="button" href="https://wa.me/996700642408" target="_blank">WhatsApp аркылуу ырастоо</a>
+    </div>
+
+    <footer>
+      Сүйүү менен,<br>
+      Бекмырза жана Альбина
+    </footer>
+  </div>
+</body>
+</html>
